@@ -25,7 +25,7 @@
             $sol = 10;
             $guess = $_GET["guess"];
 
-            if ( isset($guess) === FALSE ) // isset checks whether a variable is empty
+            if ( isset($guess) === FALSE ) // isset — Determine if a variable is declared and is different than null
                     echo("Missing guess parameter");
             else if ( strlen($guess) < 1 )
                     echo("Your guess is too short");
