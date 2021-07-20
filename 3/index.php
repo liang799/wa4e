@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Tian Pok's MD5 Cracker</title>
+    <title>My MD5 Cracker</title>
 </head>
 
  <!-- Note: it is a bad practise to do inline styling -->
