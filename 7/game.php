@@ -38,7 +38,7 @@ $rows = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
 <html>
     <head>
-        <title>Tian Pok's Automobile Tracker</title>
+        <title>My Automobile Tracker</title>
     </head>
 
     <body>
