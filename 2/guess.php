@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title> Tian Pok's guessing game </title>
+    <title> My guessing game </title>
 </head>
 
 <body>
