@@ -1,8 +1,8 @@
-<h1> Neoh Tian Pok Request/Response </h1>
+<h1> My Request/Response </h1>
 
 <p>
 <?php
-    echo 'The SHA256 of "Tian Pok" is ' . hash('sha256', 'Tian Pok');
+    echo 'The SHA256 of "My" is ' . hash('sha256', 'My');
 ?>
 </p>
 
@@ -10,10 +10,10 @@
 ASCII ART:
  ▄▄    ▄
 █  █  █ █
-█   █▄█ █
-█       █
-█  ▄    █
-█ █ █   █
+█  █▄█  █
+█  █  █ █
+█  ▄▄▄  █  
+█ █  █  █
 █▄█  █▄▄█
 
 </pre>
