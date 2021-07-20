@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Tian Pok</title>
+    <title>My</title>
     <?php require_once "bootstrap.php"; ?>
 </head>
 
